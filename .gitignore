@@ -1,10 +1,10 @@
 node_modules
 
-/build
+/.cache
 /public/build
+/build
 .env
 
-/cypress/screenshots
-/cypress/videos
-/prisma/data.db
-/prisma/data.db-journal
+# Local Netlify folder
+.netlify
+.DS_Store
